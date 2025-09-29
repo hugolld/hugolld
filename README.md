@@ -21,6 +21,7 @@ Outside of my professional pursuits, I am passionate about exploring emerging te
 </p>
 
 <h2>My Tech Stack</h2>
+<p>
 <img alt="Python" src="https://img.shields.io/badge/-Python-2B5B83?style=flat-square&logo=python&logoColor=white" />
 <img alt="Pytorch" src="https://img.shields.io/badge/-Pytorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white" />
 <img alt="FastAPI" src="https://img.shields.io/badge/-FastAPI-009485?style=flat-square&logo=fastapi&logoColor=white" />
@@ -34,6 +35,7 @@ Outside of my professional pursuits, I am passionate about exploring emerging te
 <img alt="Docker" src="https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
 <img alt="Git" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" />
 <img alt="GitHub" src="https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white" />
+</p>
 
 <h2>My Open Source Projects</h2>
 
