@@ -19,4 +19,4 @@ Here are some ideas to get you started:
 ![](https://github-readme-stats.vercel.app/api?username=hugolld&show_icons=true&theme=transparent)
 
 ## Vistor Counts
-![Visitor Count](https://profile-counter.glitch.me/tech-shrimp.com/count.svg)
+![Visitor Count](https://profile-counter.glitch.me/hugolld.com/count.svg)
