@@ -12,3 +12,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+# Hey, There, Nice to meet you!
+
+## Repository Statistics
+![](https://github-readme-stats.vercel.app/api?username=hugolld&show_icons=true&theme=transparent)
+
+## Vistor Counts
+![Visitor Count](https://profile-counter.glitch.me/tech-shrimp.com/count.svg)
