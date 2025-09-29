@@ -13,10 +13,11 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-# Hey, There, Nice to meet you!
+# Hey, there! Nice to meet you.
+
+Things I code with
+
 
 ## Repository Statistics
 ![](https://github-readme-stats.vercel.app/api?username=hugolld&show_icons=true&theme=transparent)
 
-## Vistor Counts
-![Visitor Count](https://profile-counter.glitch.me/hugolld.com/count.svg)
